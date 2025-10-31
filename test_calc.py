@@ -7,7 +7,7 @@ def test_sub():
     assert sub(5,3) ==2
 
 def test_mul():
-    assert add(2,3) ==6
+    assert mul(2,3) ==6
 
 def test_div():
-    assert add(4,2) ==2
+    assert div(4,2) ==2
